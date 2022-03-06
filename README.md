@@ -4,7 +4,6 @@
 
 
 ## Interest
-* MSA
 * Distributed System
 * Concurrency
 * Devops

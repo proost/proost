@@ -1,7 +1,4 @@
-## Backend Software Development Engineer
-* Hi there! I'm proost. Currently working as a Backend Engineer.
-
-
+# Hi there! I'm Hyeonho Kim
 
 ## Interest
 * Distributed System
